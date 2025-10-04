@@ -8,7 +8,7 @@ function App() {
         <div>
             <div>
               <center><h1>My Portfolio!</h1>
-              <h1>Samhitha Basireddy</h1></center>
+              <h1>Samhitha Basireddy !</h1></center>
             </div>
             <div>
                <h4>7842511439</h4>
@@ -16,7 +16,7 @@ function App() {
             </div>
             <div>
                <h2>SKILLS</h2>
-               <h4> Programming Languages: C,Python,HTML</h4>
+               <h4> Programming Languages: C,Python,HTML</h4>~
                <h2> EDUCATION</h2>
                <h4> Bachelor of Technology in In Technology- Cgpa:8.3 till now
 Intermediate from The Little Flower Junior College with percentage:96 </h4>
