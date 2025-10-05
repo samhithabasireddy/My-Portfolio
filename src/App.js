@@ -1,13 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import react from 'react';
+import React from 'react';
 
 function App() {
   return (
-   
-        <div>
+        <div className=" text-white text-2xl p-4">
             <div>
-              <center><h1>My Portfolio!</h1>
+              <center>
               <h1>Samhitha Basireddy !</h1></center>
             </div>
             <div>
