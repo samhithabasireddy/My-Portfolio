@@ -1,38 +1,55 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App{
+  background-color: rgb(79, 76, 83);
+  color: rgb(208, 189, 215);
+  min-height:100vh;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Navbar{
+    background-color: rgb(79, 76, 83);
+    color:  rgb(208, 189, 215);
+    padding: 0px;
+    text-align: center;
+    display: flex;
 }
+.Nav-bar{
+    background-color: rgb(79, 76, 83);
+    color: rgb(208, 189, 215);
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  
+}
+.Navbar p{
+  text-align: left;
+  font-size: 15px;
+  gap:15px;
+  font-family: 'Times New Roman', Times, serif;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+    justify-content: space-between;
 
-.App-link {
-  color: #61dafb;
 }
+.Navbar a{
+  text-decoration: none;
+  font-style: none;
+  padding: 10px;
+  color: rgb(208, 189, 215);
+  display: flex;
+  
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  
+}
+.Image{
+  align-items: left;
+  object-fit: cover;
+  
+  padding: 10px;
+  margin: 10px;
+}
+.Info {
+  max-width: 500px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  text-align: left;
 }
